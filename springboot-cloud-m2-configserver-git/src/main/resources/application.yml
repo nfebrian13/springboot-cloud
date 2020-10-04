@@ -16,6 +16,6 @@ spring:
             perf:
               pattern:
                 -"*/perf"
-              uri: https://github.com/nfebrian13/-pluralsight-spring-cloudconfig-wa-tolls-perf
+              uri: https://github.com/nfebrian13/pluralsight-spring-cloudconfig-wa-tolls-perf
               search-paths:
                   - 'station*'

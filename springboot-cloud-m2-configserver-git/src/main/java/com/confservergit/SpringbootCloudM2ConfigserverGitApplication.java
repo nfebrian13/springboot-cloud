@@ -10,6 +10,6 @@ public class SpringbootCloudM2ConfigserverGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootCloudM2ConfigserverGitApplication.class, args);
-	}
+	} 
 
 }
