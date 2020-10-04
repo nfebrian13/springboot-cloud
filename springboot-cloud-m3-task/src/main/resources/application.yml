@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Toll Processor
+    
+
+logging:
+  level:
+    org.springframework.cloud.task: DEBUG
